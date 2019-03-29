@@ -1,5 +1,5 @@
+/* eslint-disable */
 import React, { Component } from 'react';
-import Nav from './Components/Nav';
 
 import './App.css';
 
@@ -7,7 +7,6 @@ class Grid extends Component {
   render() {
     return (
       <div>
-        <Nav />
          <div>
            <br />
            <div className="container">
