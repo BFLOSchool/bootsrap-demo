@@ -9,8 +9,8 @@ class Components extends Component {
        <div>
          <br />
          <div className="container">
-          <h2>Grid Example</h2>
-          <p>This page uses the Bootstrap grid layout to display 3 items per row</p>
+          <h2>Alerts Examples</h2>
+          <p>The below are example alerts</p>
 
           <div className="alert alert-primary" role="alert">
             A simple primary alert—check it out!
